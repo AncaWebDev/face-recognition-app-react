@@ -16,13 +16,13 @@ const app = new Clarifai.App({
 const particlesOptions = {
   particles: {
     number: {
-      value: 100,
+      value: 50,
       density: {
         enable: true,
-        value_area: 800
+        value_area: 1200
       }
     }
-  }
+  },
 }
 
 

@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "clarifai": "^2.8.1",
+    "cors": "^2.8.4",
+    "knex": "^0.15.2",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-particles-js": "^2.3.0",
@@ -12,7 +14,7 @@
     "shortid": "^2.2.13",
     "tachyons": "^4.11.1"
   },
-   "scripts": {
+  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",

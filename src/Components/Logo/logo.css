@@ -1,4 +1,9 @@
 .Tilt {
-	background: pink;
+	/*background: rgba(187, 65, 173, 0.4);*/
 	margin-top: -60px;
+
+}
+
+.logoText {
+	margin-top: -7px;
 }

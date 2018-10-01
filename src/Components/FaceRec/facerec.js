@@ -1,7 +1,6 @@
 import React from 'react';
 import './facerec.css';
 
-
 const FaceRec = ({ imageURL, box }) => {
 	return(
 		<div className='center ma'>
